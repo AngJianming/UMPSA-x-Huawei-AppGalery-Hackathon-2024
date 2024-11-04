@@ -1,6 +1,6 @@
 # UMPSA-x-Huawei-AppGalery-Hackathon-2024
 UMPSA x Huawei AppGalery Hackathon | Mobile App Competition 2024<br><br>
-Huge thanks to Lionel Ritchie and Jane Chia Jia Wen for the amazing cooperation 😊
+Huge thanks to Lionel Ritchie and Jane Chia Jia Wen for the amazing cooperation 😊 hope we win haha
 
 
 #### Demo Screenshots
