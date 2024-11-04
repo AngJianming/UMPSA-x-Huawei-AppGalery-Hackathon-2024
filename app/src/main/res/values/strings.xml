@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Habit Quest</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris ultricies consequat lorem nec mattis. Sed.</string>
+    <string name="level">Level</string>
+    <string name="dummy_level">60</string>
+    <string name="add_quest">Add Quest</string>
+    <string name="current_quest">Current Quests</string>
+    <string name="history_quest">History Quests</string>
+</resources>

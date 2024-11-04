@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "376390300320",
+    "project_id": "habit-quest",
+    "storage_bucket": "habit-quest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:376390300320:android:5c26e2b55c2619d7230fc5",
+        "android_client_info": {
+          "package_name": "com.mobile_prog.habit_quest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "376390300320-7qpbvp5mcsl4q7v34g3le34cmng2eb3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDGlpLDMMTk4CS7ca5MINGB-0pS75qNYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "376390300320-7qpbvp5mcsl4q7v34g3le34cmng2eb3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

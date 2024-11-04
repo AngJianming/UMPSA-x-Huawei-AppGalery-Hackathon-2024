@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/cardview_quest_type"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cardCornerRadius="30px"
+    app:cardBackgroundColor="@color/white"
+    app:cardElevation="5dp"
+    android:layout_margin="12dp"
+    >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="12dp"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="10"
+            android:paddingStart="4dp"
+            android:paddingEnd="6dp">
+
+            <TextView
+                android:id="@+id/txt_quest_type_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textStyle="bold"
+                android:textColor="@color/green_custom"
+                android:textSize="20sp"
+                android:text="Socialize Quest" />
+            <TextView
+                android:id="@+id/txt_quest_type_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="12sp"
+                android:layout_marginTop="4dp"
+                android:text="@string/lorem_ipsum" />
+            <TextView
+                android:id="@+id/txt_quest_type_day"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/black"
+                android:textStyle="bold"
+                android:textSize="12sp"
+                android:layout_marginTop="4dp"
+                android:text="30 days" />
+        </LinearLayout>
+
+        <Button
+            android:id="@+id/btn_do_quest"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Do Quest"
+            android:textAllCaps="false"
+            android:backgroundTint="@color/green_custom"
+            />
+    </LinearLayout>
+
+
+</androidx.cardview.widget.CardView>
